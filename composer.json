@@ -1,0 +1,19 @@
+{
+    "name": "jalinmodule/karyawan",
+	"type": "library",
+	"license": "MIT",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Jalin Karyawan",
+            "email": "zein@jayantara.co.id"
+        }
+    ],
+	"minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jalinmodule\\Karyawan\\": "src/"
+        }
+    }
+}
