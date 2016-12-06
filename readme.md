@@ -11,19 +11,10 @@ Testing module karyawan
     "require": {
         ...
 
-        "jalinmodule/karyawan": "dev-master"
+        "zein-jayantara/karyawan": "1.*"
     },
     ```
-    ```
-    "repositories":[
-        ...
-
-        {
-            "type":"git",
-            "url":"git@git.ip:jalinmodule/karyawan.git"
-        }
-    ],
-    ```
+    
     * Update composer
     
     ```
